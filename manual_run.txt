@@ -1,0 +1,4 @@
+# Working manual commands (keep these as backup):
+cd /home/runner/HumiliatingQuixoticAdministrator/discord_bot
+pip install -r requirements.txt
+python3 bot.py

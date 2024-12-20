@@ -1,0 +1,13 @@
+language = "python3"
+entrypoint = "bot.py"
+run = "python3 bot.py"
+
+[nix]
+channel = "stable-22_11"
+
+[env]
+PYTHONPATH = "/home/runner/HumiliatingQuixoticAdministrator"
+
+[deployment]
+run = ["sh", "-c", "python3 bot.py"]
+deploymentTarget = "cloudrun"

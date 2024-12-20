@@ -1,0 +1,45 @@
+{
+    "greetings": [
+        "Hello!",
+        "Hi there!",
+        "Hey!",
+        "Greetings!",
+        "Nice to meet you!",
+        "How can I help?"
+    ],
+    "farewells": [
+        "Goodbye!",
+        "See you later!",
+        "Bye!",
+        "Take care!",
+        "Have a great day!",
+        "Until next time!"
+    ],
+    "thanks": [
+        "You're welcome!",
+        "No problem!",
+        "Anytime!",
+        "Glad I could help!",
+        "My pleasure!"
+    ],
+    "compliments": [
+        "Thank you, that's kind of you!",
+        "You're too kind!",
+        "I appreciate that!",
+        "That means a lot!"
+    ],
+    "jokes": [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "What do you call a bear with no teeth? A gummy bear!",
+        "Why did the scarecrow win an award? He was outstanding in his field!",
+        "What do you call a fake noodle? An impasta!",
+        "Why did the math book look so sad? Because it had too many problems!"
+    ],
+    "facts": [
+        "A day on Venus is longer than its year!",
+        "Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old!",
+        "The first oranges weren't orange!",
+        "A single cloud can weigh more than 1 million pounds!",
+        "Bananas are berries, but strawberries aren't!"
+    ]
+}

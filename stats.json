@@ -1,0 +1,35 @@
+{
+    "716908702715871305": {
+        "work_count": 10,
+        "gamble_wins": 25,
+        "gamble_count": 38,
+        "fireman_count": 0,
+        "police_count": 0,
+        "doctor_count": 7,
+        "nurse_count": 0,
+        "teacher_count": 0,
+        "chef_count": 0
+    },
+    "964086132067434536": {
+        "work_count": 6,
+        "gamble_wins": 9,
+        "gamble_count": 23,
+        "fireman_count": 0,
+        "police_count": 0,
+        "doctor_count": 3,
+        "nurse_count": 0,
+        "teacher_count": 0,
+        "chef_count": 0
+    },
+    "829239524659429376": {
+        "gamble_count": 2,
+        "work_count": 0,
+        "gamble_wins": 0,
+        "fireman_count": 0,
+        "police_count": 0,
+        "doctor_count": 0,
+        "nurse_count": 0,
+        "teacher_count": 0,
+        "chef_count": 0
+    }
+}
