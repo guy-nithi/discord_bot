@@ -27,8 +27,7 @@ bot = commands.Bot(command_prefix='!', intents=intents, help_command=None)
 # Load cogs
 async def load_cogs():
     print("\nLoading cogs...")
-    cogs_base = "discord_bot/cogs"
-    sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    cogs_base = "cogs"
     
     for folder in os.listdir(cogs_base):
         folder_path = os.path.join(cogs_base, folder)
@@ -36,7 +35,7 @@ async def load_cogs():
             print(f"\nChecking folder: {folder}")
             for filename in os.listdir(folder_path):
                 if filename.endswith(".py") and not filename.startswith("__"):
-                    cog_path = f"discord_bot.cogs.{folder}.{filename[:-3]}"
+                    cog_path = f"cogs.{folder}.{filename[:-3]}"
                     try:
                         print(f"  Loading: {cog_path}")
                         await bot.load_extension(cog_path)
